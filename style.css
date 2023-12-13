@@ -3,8 +3,10 @@ html{
 }
 img{
     margin-left:25%;
-    width:200px;
     border: 5px solid white;
+}
+#cat{
+    width: 500px;
 }
 h1{
     font-family: 'Libre Baskerville', serif;
